@@ -1,8 +1,7 @@
 'use strict';
 
-/*
 const date = new Date();
-
+/*
 const Person = function (firstName, birthYear) {
   // Instance properties
   this.firstName = firstName;
