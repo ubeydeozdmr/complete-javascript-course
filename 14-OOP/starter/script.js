@@ -279,6 +279,7 @@ ford.brake();
 // ! //////////////////////////////////////////
 // ! Inheritance Between "Classes": Constructor Functions
 
+
 const Person = function (firstName, birthYear) {
   this.firstName = firstName;
   this.birthYear = birthYear;
@@ -313,7 +314,6 @@ console.log(mike instanceof Object);
 
 Student.prototype.constructor = Student;
 console.dir(Student.prototype.constructor);
-*/
 
 // * //////////////////////////////////////////
 // * Coding Challenge #3
@@ -363,3 +363,71 @@ tesla.accelerate();
 tesla.accelerate();
 tesla.accelerate();
 tesla.brake();
+*/
+
+// ! //////////////////////////////////////////
+// ! Inheritance Between "Classes": Constructor Functions
+
+class PersonCl {
+  constructor(fullName, birthYear) {
+    this.fullName = fullName;
+    this.birthYear = birthYear;
+  }
+
+  // ? Instance methods
+  calcAge() {
+    console.log(date.getFullYear() - this.birthYear);
+  }
+
+  greet() {
+    console.log(`Hey ${this.fullName}`);
+  }
+
+  get age() {
+    return date.getFullYear() - this.birthYear;
+  }
+
+  set fullName(name) {
+    if (name.includes(' ')) this._fullName = name;
+    else alert(`${name} is not a full name`);
+  }
+
+  get fullName() {
+    return this._fullName;
+  }
+
+  // ? Static methods
+  static hey() {
+    console.log('Hey there 👋');
+    console.log(this);
+  }
+}
+
+// ! //////////////////////////////////////////
+// ! Inheritance Between "Classes": ES6 Classes
+
+class StudentCl extends PersonCl {
+  constructor(fullName, birthYear, course) {
+    // ? Always needs to happen first!
+    super(fullName, birthYear);
+    this.course = course;
+  }
+
+  introduce() {
+    console.log(`My name is ${this.fullName} and I study ${this.course}`);
+  }
+
+  calcAge() {
+    console.log(
+      `I'm ${
+        date.getFullYear() - this.birthYear
+      } years old, but as a student I feel more like ${
+        date.getFullYear() - this.birthYear + 10
+      }`
+    );
+  }
+}
+
+const martha = new StudentCl('Martha Jones', 2012, 'Computer Science');
+martha.introduce();
+martha.calcAge();
