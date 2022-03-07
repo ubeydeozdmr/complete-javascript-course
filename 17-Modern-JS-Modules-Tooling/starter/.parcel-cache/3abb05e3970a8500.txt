@@ -1,4 +1,4 @@
-5468
+5472
 123C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\base-x132910745778633150 1
 200C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js132910745794000192 0
 138C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\postcss-discard-empty132910745779270219 1
@@ -15,7 +15,7 @@
 156C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\packager-svg\lib\SVGPackager.js132910745776960201 0
 158C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\source-map-js\lib\source-map-generator.js132910745783090207 0
 141C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\_isLaziable.js132910443998270674 0
-116C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\package.json132910745818480202 0
+116C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\package.json132911234465623211 0
 145C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\nth-check\lib\parse.d.ts.map132910745781951965 0
 127C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\domhandler132910745781470194 1
 139C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-tree\lib\tokenizer132910745796880229 1
@@ -37,7 +37,7 @@
 145C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\lib\sort.d.ts.map132910745787279901 0
 152C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-declaration-sorter\package.json132910745780530212 0
 167C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\intersectionobserver.js132910745805700234 0
-108C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist132910755782005637 1
+108C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist132911234859089274 1
 143C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\watcher\src\shared132910745786210197 1
 138C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\svgo\plugins\_path.js132910745780890206 0
 148C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\utils\test\input\config132910745795780220 1
@@ -54,12 +54,12 @@
 139C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\_baseFill.js132910443994752104 0
 128C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\htmlparser2132910745784161261 1
 139C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\nan\nan_scriptorigin.h132910745786960197 0
-112C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\clean.js132892618120719932 0
+112C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\clean.js132911231680101086 0
 147C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\source-map\lib\mapping-list.js132910745782861004 0
 152C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\webxr.js132910745812332699 0
 137C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\postcss-value-parser132910745781991739 1
 136C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\postcss\lib\rule.js132910745786924388 0
-114C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\index.html132910696880318382 0
+114C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\index.html132911234857769253 0
 140C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\sampleSize.js132910444003447903 0
 113C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\script.js132910755775479150 0
 155C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\postcss-normalize-whitespace\README.md132910745778780203 0
@@ -712,7 +712,7 @@
 147C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\watcher\src\Watcher.cc132910745784103729 0
 124C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\nan\doc132910745791270238 1
 142C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\posthtml-render\readme.md132910745780310207 0
-119C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.html132910755588647539 0
+119C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.html132911234859059273 0
 128C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\xxhash-wasm132910745783330195 1
 121C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\yaml132910745792681082 1
 137C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\leaflet\package.json132910434298453257 0
@@ -2873,6 +2873,7 @@
 133C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\min.js132910444002347915 0
 135C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\minBy.js132910444002367828 0
 148C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\regions\LT.js132910745807010208 0
+128C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\starter.3464ddca.js132911234694751984 0
 147C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\sortedLastIndexOf.js132910444003677933 0
 134C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\noop.js132910444002447833 0
 133C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\lodash-es\now.js132910444002457817 0
@@ -4009,6 +4010,7 @@
 135C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\LICENSE132910745775453963 0
 137C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\README.md132910745787960205 0
 147C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\lib\attributes.d.ts132910745788340205 0
+130C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.3ec6c1be.js.map132911234815005472 0
 180C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg132910745794330233 1
 142C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\lib\compile.js132910745779472933 0
 163C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\user-select-none.js132910745811530201 0
@@ -4314,6 +4316,7 @@
 168C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\constraint-validation.js132910745796120218 0
 164C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\createimagebitmap.js132910745796631651 0
 168C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\credential-management.js132910745796680225 0
+126C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.3ec6c1be.js132911234815005472 0
 159C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\cryptography.js132910745796701996 0
 163C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\css-first-letter.js132910745797700208 0
 154C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\css-all.js132910745796760218 0
@@ -5467,3 +5470,4 @@
 132C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\node_modules\.bin\terser.ps1132910745813050204 0
 126C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js132910755781933397 0
 130C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js.map132910755781998067 0
+132C:\Users\ubeyd\OneDrive\Belgeler\GitHub\complete-javascript-course\17-Modern-JS-Modules-Tooling\starter\dist\starter.3464ddca.js.map132911234694787812 0
