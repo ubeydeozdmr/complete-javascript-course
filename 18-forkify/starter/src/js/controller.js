@@ -25,9 +25,7 @@ const controlRecipes = async function () {
     // ? 2) Rendering recipe
     recipeView.render(model.state.recipe);
   } catch (err) {
-    recipeView.renderError(
-      'We could not find that recipe. Please try another one!'
-    );
+    recipeView.renderError();
   }
 };
 
@@ -61,8 +59,17 @@ const controlPagination = function (goToPage) {
   paginationView.render(model.state.search);
 };
 
+const controlServings = function (newServings) {
+  // ? Update the recipe servings (in state)
+  model.updateServings(newServings);
+
+  // ? Update the recipe view
+  recipeView.render(model.state.recipe);
+};
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHandlerUpdateServings(controlServings);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
 };
